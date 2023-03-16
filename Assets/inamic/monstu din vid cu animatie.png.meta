@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: b83247c1b95ee70459bd97944c2281df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4944666725419936411
+    second: monstu din vid cu animatie_0
+  - first:
+      213: 2231364678909609644
+    second: monstu din vid cu animatie_1
+  - first:
+      213: -2935935674651481533
+    second: monstu din vid cu animatie_2
+  - first:
+      213: -774017539933809386
+    second: monstu din vid cu animatie_3
+  - first:
+      213: 6204383837412653080
+    second: monstu din vid cu animatie_4
+  - first:
+      213: -3066130645074885586
+    second: monstu din vid cu animatie_5
+  - first:
+      213: -5341211782762092818
+    second: monstu din vid cu animatie_6
+  - first:
+      213: 5799638267817570868
+    second: monstu din vid cu animatie_7
+  - first:
+      213: -6027290282975605618
+    second: monstu din vid cu animatie_8
+  - first:
+      213: -3431789663193137029
+    second: monstu din vid cu animatie_9
+  - first:
+      213: 9042435823640975005
+    second: monstu din vid cu animatie_10
+  - first:
+      213: -4558221234584141990
+    second: monstu din vid cu animatie_11
+  - first:
+      213: -4675370460077152613
+    second: monstu din vid cu animatie_12
+  - first:
+      213: -7354342169658433651
+    second: monstu din vid cu animatie_13
+  - first:
+      213: 2449297348213785501
+    second: monstu din vid cu animatie_14
+  - first:
+      213: 4464152037093052089
+    second: monstu din vid cu animatie_15
+  - first:
+      213: -1712217922963622843
+    second: monstu din vid cu animatie_16
+  - first:
+      213: -8658611034038732055
+    second: monstu din vid cu animatie_17
+  - first:
+      213: 3215109712673494540
+    second: monstu din vid cu animatie_18
+  - first:
+      213: -565273269779841910
+    second: monstu din vid cu animatie_19
+  - first:
+      213: 4891754052059046954
+    second: monstu din vid cu animatie_20
+  - first:
+      213: -7021294699334666616
+    second: monstu din vid cu animatie_21
+  - first:
+      213: 1548910578009321004
+    second: monstu din vid cu animatie_22
+  - first:
+      213: -1141314127141296097
+    second: monstu din vid cu animatie_23
+  - first:
+      213: 9150102148387107172
+    second: monstu din vid cu animatie_24
+  - first:
+      213: -3872241179885692337
+    second: monstu din vid cu animatie_25
+  - first:
+      213: 583656286427254136
+    second: monstu din vid cu animatie_26
+  - first:
+      213: -526743239066625948
+    second: monstu din vid cu animatie_27
+  - first:
+      213: -5626891928325837236
+    second: monstu din vid cu animatie_28
+  - first:
+      213: -8194920112282701185
+    second: monstu din vid cu animatie_29
+  - first:
+      213: 4603032055508307527
+    second: monstu din vid cu animatie_30
+  - first:
+      213: 8507213652962832728
+    second: monstu din vid cu animatie_31
+  - first:
+      213: 1105084207084271908
+    second: monstu din vid cu animatie_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 342
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a6955503cfe9440800000000000000
+      internalID: 4944666725419936411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 342
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c2ca6a5667fe10800000000000000
+      internalID: 2231364678909609644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 341
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a60052f067147d0800000000000000
+      internalID: -2935935674651481533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 342
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d25af5232245f0800000000000000
+      internalID: -774017539933809386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 292
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f7275a366a1650800000000000000
+      internalID: 6204383837412653080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 295
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e244f516c6ae275d0800000000000000
+      internalID: -3066130645074885586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 296
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6a55abe2430e5b0800000000000000
+      internalID: -5341211782762092818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 295
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432370bd6447c7050800000000000000
+      internalID: 5799638267817570868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 268
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c431deb63ca5ca0800000000000000
+      internalID: -6027290282975605618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b700485db75df50d0800000000000000
+      internalID: -3431789663193137029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 246
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d961364097f2d7d70800000000000000
+      internalID: 9042435823640975005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f38f800f1fdb0c0800000000000000
+      internalID: -4558221234584141990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 201
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b962fb5765fbd1fb0800000000000000
+      internalID: -4675370460077152613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 195
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f55dcf2c020f990800000000000000
+      internalID: -7354342169658433651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c69516f6adf120800000000000000
+      internalID: 2449297348213785501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 195
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be844a20aad3fd30800000000000000
+      internalID: 4464152037093052089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 153
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54432bbeedafc38e0800000000000000
+      internalID: -1712217922963622843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf7dbc32f66d780800000000000000
+      internalID: -8658611034038732055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 146
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06dfc1df3d5e9c20800000000000000
+      internalID: 3215109712673494540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 147
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cbfb1c4feb728f0800000000000000
+      internalID: -565273269779841910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 105
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24ae89846003e340800000000000000
+      internalID: 4891754052059046954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 107
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f2dedba95f8e90800000000000000
+      internalID: -7021294699334666616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 108
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e2717d6f5de7510800000000000000
+      internalID: 1548910578009321004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18ab9a29dc3920f0800000000000000
+      internalID: -1141314127141296097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 61
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461f625bc61bbfe70800000000000000
+      internalID: 9150102148387107172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 48
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a1644b929034ac0800000000000000
+      internalID: -3872241179885692337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 52
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d8b67dc40991800800000000000000
+      internalID: 583656286427254136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 52
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468589b90d1a0b8f0800000000000000
+      internalID: -526743239066625948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e20ae8a9349e1b0800000000000000
+      internalID: -5626891928325837236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 11
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727fa0939bc54e80800000000000000
+      internalID: -8194920112282701185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 26
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0f4e344141ef30800000000000000
+      internalID: 4603032055508307527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 26
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851f3358eb1bf0670800000000000000
+      internalID: 8507213652962832728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstu din vid cu animatie_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 31
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429f62a3b3c065f00800000000000000
+      internalID: 1105084207084271908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
